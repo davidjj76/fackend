@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": "7250a390-c1b1-4226-b7b6-736de4e23e56",
+      "email": "correo@test.com",
+      "password": "123456789",
+      "username": "@tweeterman",
+      "name": "Tweeter Man"
+    },
+    {
+      "id": "7250a390-c1b1-4226-b7b6-736de4e23e12",
+      "email": "mail@test.com",
+      "password": "987654321",
+      "username": "@tweeterking",
+      "name": "Tweeter King"
+    }
+  ],
+  "tweets": [
+    {
+      "content": "Nos hace mucha ilusión anunciar la fecha del ESTRENO de “Eso que tu me das”, documental con la última entrevista a Pau Donés. 30 DE SEPTIEMBRE, en cines de toda España. @WarnerBrosSpain Y este es el cartel definitivo, con algunas frases de críticas que ya se han publicado.",
+      "id": "c992f85e-6080-4a5b-ba10-921513396cb4",
+      "userId": "7250a390-c1b1-4226-b7b6-736de4e23e56",
+      "createdAt": "2020-10-14T22:58:12.837Z"
+    },
+    {
+      "content": "“Soy muy fan tuya, pero ahora no me acuerdo cómo te llamas“ (Una desconocida, en la calle).",
+      "id": "37440bc1-3b71-423e-9e4b-ef9b3ab44a79",
+      "userId": "7250a390-c1b1-4226-b7b6-736de4e23e12",
+      "createdAt": "2020-10-15T21:40:20.402Z"
+    }
+  ],
+  "likes": []
+}

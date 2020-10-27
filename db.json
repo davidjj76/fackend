@@ -3,14 +3,14 @@
     {
       "id": "7250a390-c1b1-4226-b7b6-736de4e23e56",
       "email": "correo@test.com",
-      "password": "123456789",
+      "password": "1234",
       "username": "@tweeterman",
       "name": "Tweeter Man"
     },
     {
       "id": "7250a390-c1b1-4226-b7b6-736de4e23e12",
       "email": "mail@test.com",
-      "password": "987654321",
+      "password": "9876",
       "username": "@tweeterking",
       "name": "Tweeter King"
     }
